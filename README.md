@@ -3,8 +3,12 @@
 ### Introduction:
 Setting up a web and DNS server is a common task for Linux system administrators responsible for hosting websites and managing domain name resolution. This project aims to provide a comprehensive guide for configuring and deploying a web server to host websites and a DNS server to manage domain name resolution. By following these guidelines, administrators can establish a reliable and secure infrastructure to serve web content and manage DNS records effectively.
 
+<br>
+
 ### Objective:
 The primary objective of this project is to equip Linux system administrators with the knowledge and skills needed to set up and configure a web server and DNS server infrastructure. This involves installing and configuring web server software, such as Apache or Nginx, configuring virtual hosts and SSL certificates, setting up DNS server software, such as BIND or dnsmasq, and managing DNS zones and records to facilitate domain name resolution for hosted websites.
+
+<br>
 
 ### Key Components:
 
