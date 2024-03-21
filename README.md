@@ -19,7 +19,10 @@ The primary objective of this project is to equip Linux system administrators wi
 - <b>Virtual Host Configuration</b>: Configuring virtual hosts to host multiple websites on a single server, including domain name-based and IP-based virtual hosts.
 - <b>SSL/TLS Certificate Installation</b>: Obtaining and installing SSL/TLS certificates from a trusted Certificate Authority (CA) to enable HTTPS encryption for secure web communication.
 - <b>Web Application Deployment</b>: Deploying web applications, content management systems (CMS), or static websites to the web server document root directory.
-DNS Server Setup:
+
+<br>
+
+#### DNS Server Setup:
 
 - <b>Selection of DNS Server Software</b>: Choosing between BIND (Berkeley Internet Name Domain) or dnsmasq based on features, scalability, and complexity.
 - <b>Installation and Configuration</b>: Installing the chosen DNS server software and configuring basic settings, such as listening interfaces, zone files, and DNS resolver settings.
