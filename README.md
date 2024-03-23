@@ -1,5 +1,5 @@
 ### Introduction
-The "Web-and-DNS-Server-Setup" repository serves as a comprehensive resource for Linux system administrators seeking to deploy and configure web and DNS servers on Linux systems. This project aims to provide detailed documentation, configuration files, and scripts to facilitate the setup, management, and optimization of web hosting and DNS resolution services.
+The Web and DNS Server Setup repository serves as a comprehensive resource for Linux system administrators seeking to deploy and configure web and DNS servers on Linux systems. This project aims to provide detailed documentation, configuration files, and scripts to facilitate the setup, management, and optimization of web hosting and DNS resolution services.
 
 <br>
 
