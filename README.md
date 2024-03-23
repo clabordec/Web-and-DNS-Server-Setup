@@ -3,7 +3,7 @@ The "Web-and-DNS-Server-Setup" repository serves as a comprehensive resource for
 
 <br>
 
-### Key Features and Components:
+### Key Features and Components
 
 - <b>Web Server Configuration</b>: Installation and configuration of a robust and scalable web server, such as Apache HTTP Server or Nginx, to host websites and web applications.
 Configuration of virtual hosts to support hosting multiple websites on the same server with distinct domain names and settings.
@@ -28,7 +28,7 @@ Configuration of virtual hosts to support hosting multiple websites on the same 
 
 <br>
 
-### Project Goals:
+### Project Goals
 
 - Empower Linux system administrators with the knowledge and resources to deploy and manage robust web hosting and DNS server environments.
 - Provide a step-by-step guide and best practices for configuring and optimizing web and DNS servers on Linux systems.
